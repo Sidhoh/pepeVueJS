@@ -1,7 +1,7 @@
 
 # Pepe VueJS
 
-An lib to add pepe emojis into your vue website!
+A lib to add pepe emojis into your vue website!
 
 ## Installation and Usage
  To install the lib:
