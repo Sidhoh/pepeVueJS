@@ -8,7 +8,7 @@ An lib to add pepe emojis into your vue website!
  ```
  npm install pepevuejs
  ```
- To import the liv
+ To import the lib
  ```js
  import { smug } from "../../src/index";
 
